@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : Ponguru Aasrith Sairam </H3>
 <H3>ENTER YOUR REGISTER NO: 212223240116 </H3>
 <H3>EX. NO.7</H3>
-<H3>DATE:27/10/2025</H3>
+<H3>DATE:3/11/2025</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim:</H3> 
  To perform automatic text summarization using Natural Language Processing (NLP) techniques.
